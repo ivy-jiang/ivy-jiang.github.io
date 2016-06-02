@@ -147,7 +147,7 @@ header {
 header span.ribbon-inner {
   position: relative;
   display: block;
-  background:background: transparent url(../images/received_1234974783187199.jpeg) 0 0 no-repeat;
+  background: transparent url(../images/received_1234974783187199.jpeg) 0 0 no-repeat;
   border: 4px solid #7c334f;
   padding: 2px;
   z-index: 1;
