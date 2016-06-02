@@ -164,18 +164,10 @@ header span.left-tail, header span.right-tail {
   z-index: 0;
 }
 
-header span.left-tail {
-  background-position: 0 0;
-  left: -31px;
-}
 
-header span.right-tail {
-  background-position: -56px 0;
-  right: -31px;
-}
 
 header h1 {
-  background: transparent url(../images/received_1234974783187199.jpeg) no-repeat;
+  background: transparent url(../images/received_1234974783187199.jpeg) 0 0 no-repeat;
   font: Georgia, Times, “Times New Roman”, serif;
   font-size: 2.5em;
   font-weight: 800;
