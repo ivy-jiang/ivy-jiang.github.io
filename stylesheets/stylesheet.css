@@ -9,8 +9,13 @@ body {
   line-height: 1.5;
   color: #606c71; }
 
+h3{
+  color: #bd0a59;
+  
+}
+
 a {
-  color: #1e6bb8;
+  color: #a1f6f7;
   text-decoration: none; }
   a:hover {
     text-decoration: underline; }
@@ -54,6 +59,7 @@ a {
       margin-left: 0; } }
 
 .page-header {
+  border-style: groove;
   color: #fff;
   text-align: center;
   background-color: #B1EEE6;
